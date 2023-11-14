@@ -1,2 +1,1 @@
-# Seyahat Blogu
- ...
+# SeyahatSitesi
